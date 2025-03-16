@@ -1,4 +1,4 @@
-costprice =int(input( "enter the sp :"))
+costprice =int(input( "enter the cp :"))
 sellingprice = int(input("enter the sp: "))
 
 if(sellingprice>costprice):
